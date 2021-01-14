@@ -1,5 +1,4 @@
-READ ME
-=======
+# Hoofers Club KB
 
 The accompanying file hoofersclub.pl is a Prolog knowledge base. It is written
 in the SWI Prolog dialect (version 8.2.3). To solve the Hoofers Club problem,
